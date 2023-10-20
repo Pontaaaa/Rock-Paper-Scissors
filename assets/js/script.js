@@ -1,3 +1,4 @@
+/* jshint esversion: 6 */
 // const for script //
 const buttons = document.querySelectorAll(".option");
 const result = document.querySelector(".result");

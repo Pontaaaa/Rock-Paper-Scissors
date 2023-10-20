@@ -49,8 +49,10 @@ The website has been validated using W3C Markup Validator, W3C CSS Validator and
 
 -HTML
     -No errors were returned when passing through the W3C Validator.
+![HTML Results](assets/images/htmlresults.PNG)
 -CSS
     -No errors were found when passing through the offical W3C Validator
+![CSS Results](assets/images/CSSresults.PNG)
 -JavaScript
     -No errors were found when passing through JSHint
 
@@ -60,10 +62,11 @@ The website has been validated using W3C Markup Validator, W3C CSS Validator and
         95 on Accessibility
         92 on Best Practices
         92 on SEO
+![Lighthouse Result](assets/images/lighthouse.PNG)
 
 ## Deployment
 
-You can enjoy the game by visiting [here](https://pontaaaa.github.io/Rock-Paper-Scissors/).
+You can play the game by visiting [here](https://pontaaaa.github.io/Rock-Paper-Scissors/).
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
