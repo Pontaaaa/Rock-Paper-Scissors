@@ -4,13 +4,12 @@
 
 ## Overview
 
-This is a simple Rock Paper Scissors Lizard Spock website. It's based on the classic Rock, Paper, Scissors game but with the addition of two more options: Lizard and Spock. The is single player against a computer opponent. It tracks the player's wins, ties, and losses, while also allowing for resetting the score.
+This is a simple Rock Paper Scissors Lizard Spock website. It's based on the classic Rock, Paper, Scissors game but with the addition of two more options: Lizard and Spock. The game is single player against a computer opponent. It tracks the player's wins, ties, and losses, while also allowing resets for the score.
 
 ## Features 
 
 ### Existing Features
 
-- **User-Friendly Interface**: The game offers an intuitive and visually appealing user interface.
 - **Instant Results**: Get immediate feedback on the game outcome and see who wins.
 - **Score Tracking**: Keep track of your wins, ties, and losses.
 - **Reset Score**: Reset your score with a single click and start a new game.
