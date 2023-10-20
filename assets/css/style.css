@@ -36,3 +36,20 @@ h1 {
     border-radius: 10px;
     background-color: #f4f4f4;
 }
+
+.option {
+    cursor: pointer;
+    transition: transform 0.2s;
+    max-width: 100px;
+}
+
+.option:hover {
+    transform: scale(1.1);
+}
+
+/* style for score counter */
+.result {
+    margin-top: 20px;
+    font-size: 20px;
+    color: #ff6600;
+}
