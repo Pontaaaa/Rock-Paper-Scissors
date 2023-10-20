@@ -53,3 +53,49 @@ h1 {
     font-size: 20px;
     color: #ff6600;
 }
+
+/* style for overlay with rules */
+.overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.rules-text {
+    background: #fff;
+    padding: 20px;
+    border: 2px solid #ff6600;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    color: #ff6600;
+    font-size: 24px;
+    width: 70%;
+}
+
+#close-rules {
+    margin-top: 20px;
+}
+
+/* style for buttons */
+.btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #ff6600;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.btn:hover {
+    background-color: #ff3300;
+}
