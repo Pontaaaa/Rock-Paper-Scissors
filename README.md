@@ -49,12 +49,14 @@ The website has been validated using W3C Markup Validator, W3C CSS Validator and
 
 -HTML
     -No errors were returned when passing through the W3C Validator.
-![HTML Results](assets/images/htmlresults.PNG)
 -CSS
     -No errors were found when passing through the offical W3C Validator
-![CSS Results](assets/images/CSSresults.PNG)
 -JavaScript
     -No errors were found when passing through JSHint
+
+![HTML Results](assets/images/htmlresults.PNG)
+
+![CSS Results](assets/images/CSSresults.PNG)
 
 -Lighthouse
     -The website recived the scores:
@@ -62,6 +64,7 @@ The website has been validated using W3C Markup Validator, W3C CSS Validator and
         95 on Accessibility
         92 on Best Practices
         92 on SEO
+
 ![Lighthouse Result](assets/images/lighthouse.PNG)
 
 ## Deployment
